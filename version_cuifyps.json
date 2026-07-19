@@ -1,0 +1,28 @@
+{
+    "latest_version_code": 100,
+    "latest_version_name": "1.0.0",
+    "force_update": true,
+    "apk_url": "https://supercui.netlify.app/xTimes/CUI-FYPs-v1.0.0.apk",
+    "message": "Critical update required for continued usage.",
+
+
+    "main_links": {
+        "link_001": {
+            "url": "https://cuifyps.wuaze.com/index.php",
+            "zoom": 100
+        }
+    },
+
+    "notifications": {
+        "topics_000": {
+            "Title": "Mandatory Notifications",
+            "topic": "CUIFYPs_Messages",
+            "value": true
+        },
+        "topics_001": {
+            "Title": "Updates",
+            "topic": "CUIFYPs_Updates",
+            "value": true
+        }
+    }
+}
